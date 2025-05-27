@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kudja\\WebP\\": ""
+            "Kudja\\Webp\\": ""
         },
         "files": [ "registration.php" ]
     }
